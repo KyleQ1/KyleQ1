@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, I'm Kyle 👋
 
+I'm most likely working on startups. Currently creating my first product and seeking to improve ways people seek jobs. I'm looking for communities with similar ideas. Silicon Valley
 <!--
 **KyleQ1/KyleQ1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
