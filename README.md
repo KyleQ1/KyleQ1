@@ -2,7 +2,7 @@
 ~~I'm most likely working on startups!
 
 - 🪔 Currently creating my first product, a [friendship lamp](glowbond.shop) that connects friends and family over long distances. 
-- 💼 Improving the ways people seek jobs. 
+- 💪 Creating the next best workout tracker app!
 - 🦿 I have dabbled quite a bit in robotics and reinforcement learning.
 - 💸 I'm looking for communities to try to expand and make money together. 
 
