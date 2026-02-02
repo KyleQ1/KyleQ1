@@ -1,12 +1,10 @@
 ### Hi, I'm Kyle 👋
-~~I'm most likely working on startups!
 
 - 🪔 Currently creating my first product, a [friendship lamp](glowbond.shop) that connects friends and family over long distances. 
 - 💪 Creating the next best workout tracker app!
 - 🦿 I have dabbled quite a bit in robotics and reinforcement learning.
 - 💸 I'm looking for communities to try to expand and make money together. 
 
-Silicon Valley 💻
 <!--
 **KyleQ1/KyleQ1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
